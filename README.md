@@ -5,7 +5,7 @@ Then run the following command to reinstall the server.
 
 cd /usr/local/openvpn_as/lib/python
 
-rm -rf __pycache__/*
+rm -rf "__pycache__/*"
 
 cd /usr/local/openvpn_as/bin
 
