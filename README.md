@@ -10,4 +10,5 @@ Done <br>
 Change your password if you forget your OpenVPN (administrator) password. <br>
 sudo /usr/local/openvpn_as/scripts/sacli --user openvpn --new_pass 'Admin@2026' SetLocalPassword <br>
 
+![Illustrative image](https://github.com/ithelpdeskBMBS/OpenVPN-AS_2.14.3-Py3.12.3/blob/main/Screenshot%202026-02-13%20142437.png)
 
